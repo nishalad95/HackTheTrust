@@ -10,10 +10,17 @@
 
 ###### You are welcome to use any open source data sets, ML algorithms or any other resources/scripts you may have. We also encourage you to bring any technologies/ IoT devices (Raspberry Pi’s etc.) that you would like to use on the day.
 
+#### How to Access Oracle Cloud Infrastructure:
+
+###### Instrcutions here & description of what the env includes - what is pre installed, bare metal etc etc
 
 #### IP:
 
 ###### The IP of the solutions created during the hackathon will reside with the individual/team that created them, such that if they choose to continue developing and coding their project at home they can do so. If at the end of the Hackathon, The Prince's Trust feel as though a team have produced a solution that may be valuable to them in their ongoing campaigns, they may approach that team/individual to progress further and work with them.
+
+#### Event day webpage:
+
+###### http://www.orabh.co.uk/HackTheTrust/
 
 #### The Prince's Trust:
 
