@@ -30,3 +30,8 @@
 
 ###### We aim to raise as much as possible for The Prince's Trust & we are open to any amount in donations. We would greatly appreciate your support in this worthy cause! Please take a look at our Just Giving page here to donate: https://www.justgiving.com/HackTheTrust
 
+
+#### Submitting your solution:
+
+###### Instructions on submitting your solution to the server
+
