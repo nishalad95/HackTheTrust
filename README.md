@@ -28,4 +28,5 @@
 
 #### Donate:
 
-###### We aim to raise as much as possible for The Prince's Trust & we are open to any amount in donations. We would greatly appreciate your support in this worthy cause! Please take a look at our Just Giving page here to donate: http://bit.ly/2IiQRx2
+###### We aim to raise as much as possible for The Prince's Trust & we are open to any amount in donations. We would greatly appreciate your support in this worthy cause! Please take a look at our Just Giving page here to donate: justgiving.com/HackTheTrust
+
