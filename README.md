@@ -33,8 +33,7 @@
 
 #### 💻 Submitting your solution:
 
-###### In order for your team's solution to be judged, you must submit your demo or solution to Oracle's OCI Server.
-###### Using your team credentials allocated to you, login to OCI either using WinSCP, PUTTY or the terminal and copy across your solution into your team's directory.
+###### In order for your team's solution to be judged, you must submit your demo or solution to Oracle's OCI Server. Using your team's credentials allocated to you, login to OCI either using WinSCP, PUTTY or the terminal and copy across your solution into your team's directory.
 
 
 #### Good luck! 😊 
