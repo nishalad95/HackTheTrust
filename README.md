@@ -10,9 +10,9 @@
 
 ###### You are welcome to use any open source data sets, ML algorithms or any other resources/scripts you may have. We also encourage you to bring any technologies/ IoT devices (Raspberry Pi’s etc.) that you would like to use on the day.
 
-#### How to Access Oracle Cloud Infrastructure:
+#### SSH:
 
-###### Instrcutions here & description of what the env includes - what is pre installed, bare metal etc etc
+###### How to Access Oracle Cloud Infrastructure: Instrcutions here & description of what the env includes - what is pre installed, bare metal etc etc
 
 #### IP:
 
@@ -33,5 +33,9 @@
 
 #### Submitting your solution:
 
-###### Instructions on submitting your solution to the server
+###### In order for your team's solution to be judged, you must submit your demo or solution to Oracle's OCI Server.
+###### Using your team credentials allocated to you, login to OCI either using WinSCP, PUTTY or the terminal and copy across your solution into your team's directory.
+
+
+#### Good luck! 😊 
 
