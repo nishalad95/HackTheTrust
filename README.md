@@ -23,9 +23,7 @@ port: 22
 username: opc
 no password required
 ```
-###### Click on Advanced options and Authentication under SSH, click on Browse to attached the .ppk file.
-
-###### You can now either open up the terminal and start using the command line, or you can copy across any files using drag and drop (WinSCP).
+###### Click on Advanced options and Authentication under SSH, click on Browse to attached the id_rsa_prince_trust_putty.ppk file. You can now either open up the terminal and start using the command line, or you can copy across any files using drag and drop (WinSCP).
 
 ##### SSH Using Mac or Linux:
 ###### To SSH using unix-like systems, open up the terminal and use the following command with your team's credentials
