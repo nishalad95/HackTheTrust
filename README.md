@@ -12,7 +12,17 @@
 
 #### 🔑 SSH
 
-###### How to Access Oracle Cloud Infrastructure: Instrcutions here & description of what the env includes - what is pre installed, bare metal etc etc
+###### Throughout the hackathon, we are providing you access to Oracle Cloud Infrastructure bare metal services where you can run any machine learning or data processing scripts you like! When you registered your team on our webpage, you will have been provided with SSH credentials to login to our servers.
+
+###### description of what the environment looks like
+
+##### SSH Using Windows:
+
+##### SSH Using Mac or Linux:
+
+```
+ssh -i <path to .dat file> username@servername
+```
 
 #### 💻 IP
 
