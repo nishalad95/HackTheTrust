@@ -4,6 +4,8 @@
 
 ###### Thanks so much for participating in Oracle's first 24 hour charity hack in partnership with The Prince's Trust! Within this repo is all you'll need to access the data provided by The Prince's Trust reflecting their demographic. Using their data sample, alongside open source training sets, government data and other open source demographic data, you'll be processing and analysing the results over the weekend to tackle the challenges faced by The Prince's Trust, to help them in their future campaigns.
 
+#### Welcome to Hack The Trust 2018! 
+
 * [The Data](#-the-data)
 * [SSH](#-ssh)
 * [IP](#-ip)
@@ -11,6 +13,7 @@
 * [Open Source Data](#-open-source-data)
 * [The Prince's Trust](#-the-princes-trust)
 * [Submitting your solution](#submitting-your-solution)
+
 
 ## 🔟 The Data
 
@@ -47,6 +50,19 @@ ssh -i <path to id_rsa_prince_trust.dat file> opc@130.61.XX.XXX
 
 ###### All you need for the weekend: http://www.orabh.co.uk/HackTheTrust/
 ###### On the event day webpage you can see the agenda for the weekend, meet the hack team, see photos from the event and much more!
+
+## 📐 Open Source Data
+
+###### When analysing the data catalogue provided by The Prince's Trust, you will need a training data set in order to build your portfolio and obtain a more in-depth insight into the demographic's behaviour. So, here are a few links to find some open-source data sets to use in your ML scripts.
+
+###### Useful Links: 
+* https://deeplearning4j.org/data-sets-ml
+* https://www.re3data.org
+* https://www.openml.org
+* https://www.kaggle.com/datasets
+* https://www.altexsoft.com/blog/datascience/best-public-machine-learning-datasets
+* https://github.com/awesomedata/awesome-public-datasets
+
 
 
 ## 👦 The Prince's Trust
