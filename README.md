@@ -14,9 +14,18 @@
 
 ###### Throughout the hackathon, we are providing you access to Oracle Cloud Infrastructure bare metal services where you can run any machine learning or data processing scripts you like! When you registered your team on our webpage, you will have been provided with SSH credentials to login to our servers.
 
-###### description of what the environment looks like
-
 ##### SSH Using Windows:
+###### On Windows systems, we recommend using WinSCP or PUTTY to SSH into our server. Install and open up WinSCP or PUTTY and type in the following:
+
+```
+host name: IP allocated to your team
+port: 22
+username: opc
+no password required
+```
+###### Click on Advanced options and Authentication under SSH, click on Browse to attached the .ppk file.
+
+###### You can now either open up the terminal and start using the command line, or you can copy across any files using drag and drop (WinSCP).
 
 ##### SSH Using Mac or Linux:
 ###### To SSH using unix-like systems, open up the terminal and use the following command with your team's credentials
@@ -46,5 +55,5 @@ ssh -i <path to id_rsa_prince_trust.dat file> opc@130.61.XX.XXX
 ###### In order for your team's solution to be judged, you must submit your demo or solution to Oracle's OCI Server. Using your team's credentials allocated to you, login to OCI either using WinSCP, PUTTY or the terminal and copy across your solution into your team's directory.
 
 
-#### Good luck! 😊 
+#### 😊 Good luck!
 
