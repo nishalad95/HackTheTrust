@@ -19,9 +19,9 @@
 ##### SSH Using Windows:
 
 ##### SSH Using Mac or Linux:
-
+###### To SSH using unix-like systems, open up the terminal and use the following command with your team's credentials
 ```
-ssh -i <path to .dat file> username@servername
+ssh -i <path to id_rsa_prince_trust.dat file> opc@130.61.XX.XXX
 ```
 
 ## 💻 IP
