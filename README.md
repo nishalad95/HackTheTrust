@@ -20,7 +20,7 @@
 
 #### Event day webpage:
 
-###### http://www.orabh.co.uk/HackTheTrust/
+###### All you need for the weekend: http://www.orabh.co.uk/HackTheTrust/
 
 #### The Prince's Trust:
 
