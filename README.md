@@ -10,7 +10,7 @@
 
 ###### You are welcome to use any open source data sets, ML algorithms or any other resources/scripts you may have. We also encourage you to bring any technologies/ IoT devices (Raspberry Pi’s etc.) that you would like to use on the day.
 
-#### 🔑 SSH
+## 🔑 SSH
 
 ###### Throughout the hackathon, we are providing you access to Oracle Cloud Infrastructure bare metal services where you can run any machine learning or data processing scripts you like! When you registered your team on our webpage, you will have been provided with SSH credentials to login to our servers.
 
@@ -24,15 +24,15 @@
 ssh -i <path to .dat file> username@servername
 ```
 
-#### 💻 IP
+## 💻 IP
 
 ###### The IP of the solutions created during the hackathon will reside with the individual/team that created them, such that if they choose to continue developing and coding their project at home they can do so. If at the end of the Hackathon, The Prince's Trust feel as though a team have produced a solution that may be valuable to them in their ongoing campaigns, they may approach that team/individual to progress further and work with them.
 
-#### 💻 Event day webpage
+## 💻 Event day webpage
 
 ###### All you need for the weekend: http://www.orabh.co.uk/HackTheTrust/
 
-#### 👦 The Prince's Trust
+## 👦 The Prince's Trust
 
 ###### The Prince's Trust is a youth charity that helps young people aged 11 to 30 get into jobs, education and training. All funds raised throughout the Hackathon event will go to help fund the inspirational work that the Prince’s Trust do. To find out more on the fantastic work the Prince's Trust do, visit their website here. https://www.princes-trust.org.uk/
 
@@ -41,7 +41,7 @@ ssh -i <path to .dat file> username@servername
 ###### We aim to raise as much as possible for The Prince's Trust & we are open to any amount in donations throughout this weekend! We would greatly appreciate your support for this worthy cause! Please take a look at our Just Giving page here to donate: https://www.justgiving.com/HackTheTrust
 
 
-#### 💻 Submitting your solution
+## 💻 Submitting your solution
 
 ###### In order for your team's solution to be judged, you must submit your demo or solution to Oracle's OCI Server. Using your team's credentials allocated to you, login to OCI either using WinSCP, PUTTY or the terminal and copy across your solution into your team's directory.
 
