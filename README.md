@@ -4,7 +4,7 @@
 
 ###### Thanks so much for participating in Oracle's first 24 hour charity hack in partnership with The Prince's Trust! Within this repo is all you'll need to access the data provided by The Prince's Trust reflecting their demographic. Using their data sample, alongside open source training sets, government data and other open source demographic data, you'll be processing and analysing the results over the weekend to tackle the challenges faced by The Prince's Trust, to help them in their future campaigns.
 
-#### Welcome to Hack The Trust 2018! 
+#### Table of Contents 
 
 * [The Data](#-the-data)
 * [SSH](#-ssh)
@@ -62,7 +62,6 @@ ssh -i <path to id_rsa_prince_trust.dat file> opc@130.61.XX.XXX
 * https://www.kaggle.com/datasets
 * https://www.altexsoft.com/blog/datascience/best-public-machine-learning-datasets
 * https://github.com/awesomedata/awesome-public-datasets
-
 
 
 ## 👦 The Prince's Trust
