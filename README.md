@@ -38,6 +38,8 @@ ssh -i <path to id_rsa_prince_trust.dat file> opc@130.61.XX.XXX
 ## 💻 Event day webpage
 
 ###### All you need for the weekend: http://www.orabh.co.uk/HackTheTrust/
+###### On the event day webpage you can see the agenda for the weekend, meet the hack team, see photos from the event and much more!
+
 
 ## 👦 The Prince's Trust
 
