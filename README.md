@@ -26,9 +26,9 @@
 
 ###### The Prince's Trust is a youth charity that helps young people aged 11 to 30 get into jobs, education and training. All funds raised throughout the Hackathon event will go to help fund the inspirational work that the Prince’s Trust do. To find out more on the fantastic work the Prince's Trust do, visit their website here. https://www.princes-trust.org.uk/
 
-#### 💰 Donate
+#### 💰 Donations
 
-###### We aim to raise as much as possible for The Prince's Trust & we are open to any amount in donations. We would greatly appreciate your support in this worthy cause! Please take a look at our Just Giving page here to donate: https://www.justgiving.com/HackTheTrust
+###### We aim to raise as much as possible for The Prince's Trust & we are open to any amount in donations throughout this weekend! We would greatly appreciate your support for this worthy cause! Please take a look at our Just Giving page here to donate: https://www.justgiving.com/HackTheTrust
 
 
 #### 💻 Submitting your solution
