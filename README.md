@@ -77,6 +77,6 @@ ssh -i <path to id_rsa_prince_trust.dat file> opc@130.61.XX.XXX
 
 ###### In order for your team's solution to be judged, you must submit your demo or solution to Oracle's OCI Server. Using your team's credentials allocated to you, login to OCI either using WinSCP, PUTTY or the terminal and copy across your solution into your team's directory.
 
+## 😊 Good luck!
 
-#### 😊 Good luck!
-
+###### If you need a hand, grab any of the Hack Team to help you!
